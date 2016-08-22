@@ -1,0 +1,1 @@
+%caminho% java -jar jFuzzyLogic.jar -e arquivo.jcl dados
